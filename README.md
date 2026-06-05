@@ -1,6 +1,6 @@
-<br><br>
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=gorkem4tsc&data=followers,repositories,stars,commits&theme=darkmode)](https://github.com/gorkem4tsc)
-<p align="left"><img align="left" src="https://github.com/vinodjangid07/vinodjangid07/assets/86096184/80c5f1d3-51b2-4467-9ae8-694c90ed16ae" width="200px"></p>
+<br><br>
+
 <h1 align="center">Hi 👋, I'm Görkem</h1>
 <h3 align="center">Bridging the gap between cutting-edge AI technology and scalable web solutions, I transform digital innovation into tangible business value.</h3>
 
