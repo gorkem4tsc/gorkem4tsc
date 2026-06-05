@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Görkem</h1>
 <h3 align="center">Bridging the gap between cutting-edge AI technology and scalable web solutions, I transform digital innovation into tangible business value.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gorkem4tsc&label=Profile%20views&color=0e75b6&style=flat" alt="gorkem4tsc" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gorkem4tsc" alt="gorkem4tsc" /></a> </p>
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SENIN_KULLANICI_ADIN&show_icons=true&theme=radical)](https://github.com/gorkem4tsc)
 
 - 🔭 I’m currently working on [HangiEkipman](https://hangiekipman.com)
 
