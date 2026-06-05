@@ -1,4 +1,4 @@
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SENIN_KULLANICI_ADIN&show_icons=true&theme=radical)](https://github.com/gorkem4tsc)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gorkem4tsc&show_icons=true&theme=radical)](https://github.com/gorkem4tsc)
 <h1 align="center">Hi 👋, I'm Görkem</h1>
 <h3 align="center">Bridging the gap between cutting-edge AI technology and scalable web solutions, I transform digital innovation into tangible business value.</h3>
 
