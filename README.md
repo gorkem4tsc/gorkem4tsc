@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [HangiEkipman](https://hangiekipman.com)
 
-- 🌱 I’m currently learning **Next.js ecosystem, advanced TypeScript patterns, and modern SEO optimization strategies**
+- 🌱 I’m currently learning **Golang,Next.js ecosystem, advanced TypeScript patterns, and modern SEO optimization strategies**
 
 - 👯 I’m looking to collaborate on [SupplementBul](https://supplementbul.com)
 
